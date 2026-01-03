@@ -1,2 +1,5 @@
 # FencingPulse
 
+```
+cd <path>
+```
