@@ -1,0 +1,8 @@
+streamlit>=1.25
+pandas>=1.5
+numpy>=1.23
+scikit-learn>=1.2
+joblib>=1.2
+opencv-python-headless>=4.11
+# انتخابی برای فاز دوم (برای استفاده کامل باید نصب شود)
+# mediapipe>=0.10
